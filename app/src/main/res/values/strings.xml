@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">buttonkot3</string>
+    <string name="onclick_in_xml">onClick in Xml</string>
+    <string name="onclicklistner_in_kotlin">onClickListner() in kotlin</string>
+</resources>
